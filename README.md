@@ -2,7 +2,7 @@
 
 Tags: limit, login, attempts, wp-login, wp-login.php, wordpress, plugin  
 Author: Eduard Jacobs  
-Author URI: https://www.appsmadebycats/
+Author URI: https://www.appsmadebycats/  
 Requires at least: 5.8    
 Tested up to: 6.0  
 Stable tag: 1.0  
