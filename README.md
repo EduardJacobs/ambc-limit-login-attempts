@@ -9,4 +9,4 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 ### == Description ==  
 
-A very lightweight WordPress plugin that limits login attempts to preven brute force attacks. Lock a user out by their IP address for 20 minutes after 3 failed attempts. 
+A very lightweight WordPress plugin that limits login attempts to prevent brute force attacks. Locks a user out by their IP address for 20 minutes after 3 failed attempts. 
